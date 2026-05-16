@@ -1,0 +1,12 @@
+.ds-icon-button {
+  position: relative;
+  appearance: none;
+  align-items: center;
+  justify-content: center;
+  line-height: inherit;
+  background: none;
+  color: inherit;
+  margin: 0px;
+  padding: 0px;
+  display: flex;
+}
